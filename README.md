@@ -41,19 +41,6 @@
 </div>
 
 ---
-
-## 😂 Le coin memes
-
-<div align="center">
-
-![Bug](https://img.shields.io/badge/C'est%20pas%20un%20bug-c'est%20une%20feature-critical?style=for-the-badge)
-![StackOverflow](https://img.shields.io/badge/Powered%20by-StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Works](https://img.shields.io/badge/Ca%20marche-sur%20ma%20machine-success?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Carburant-Caf%C3%A9-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![Sleep](https://img.shields.io/badge/Sommeil-404%20Not%20Found-lightgrey?style=for-the-badge)
-
-</div>
-
 **Ce que dit mon profil GitHub vs la vraie vie :**
 
 | Sur le papier | Dans la vraie vie |
