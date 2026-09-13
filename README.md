@@ -30,5 +30,3 @@ Readme Card Readme Card
 ⚙️ Script Hyper-V one-shot — un script, un Hyper-V opérationnel, zéro prise de tête
 📋 Script Import CSV → AD — balance un CSV, récupère des OU/GG/DL prêtes à l'emploi
 📊 Stats GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pazuluda&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazuluda&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://streak-stats.demolab.com/?user=Pazuluda&theme=tokyonight&hide_border=true" width="70%"/> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Merci%20d%27%C3%AAtre%20pass%C3%A9%20%21&fontSize=18&animation=twinkling&fontAlignY=75" width="100%"/> </div>
