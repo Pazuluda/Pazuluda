@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salut,%20c%27est%20Pazuluda%20%F0%9F%91%8B&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Just%20a%20chill%20guy%20%7C%20Sysadmin%20%2B%20Automatisation%20PowerShell&descAlignY=55&descSize=16" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Sysadmin+Windows+en+mode+chill;Domain+Expansion+Automatisation+Illimit%C3%A9e;Six+Eyes+actives+zero+bug+ne+passe;Askip+je+dors+en+vrai+je+debug;OKLM+devant+Hyper-V" /> <br>
 
-🏆 Achievement : YOLO • 🏠 Working from home
+🏆 Achievement :• 🏠 Working from home
 
 </div>
 🙋 Qui suis-je
