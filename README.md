@@ -212,13 +212,27 @@ engineering:
 
 SYSTEM STATUS
 
-┌──────────────────────────────────────────────────────────────┐
-│ AUTOMATION      ████████████████████  ONLINE               │
-│ CURIOSITY       ████████████████████  MAX                  │
-│ PROJECTS        ███████████████████░  BUILDING             │
-│ LEARNING        ████████████████████  CONTINUOUS           │
-│ COFFEE          ███████████████░░░░░  PROBABLY             │
-└──────────────────────────────────────────────────────────────┘
+<br/>
+
+<img src="https://img.shields.io/badge/AUTOMATION-ONLINE-FF2D95?style=for-the-badge&labelColor=120021"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CURIOSITY-MAX-8A2BE2?style=for-the-badge&labelColor=120021"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PROJECTS-BUILDING-FF8A00?style=for-the-badge&labelColor=120021"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-00C2FF?style=for-the-badge&labelColor=120021"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SYSTEMS-OPERATIONAL-7CFF6B?style=for-the-badge&labelColor=120021"/>
+&nbsp;
+<img src="https://img.shields.io/badge/COFFEE-PROBABLY-FFD166?style=for-the-badge&labelColor=120021"/>
+
+<br/><br/>
+
+<sub>
+<code>⚡ BUILDING SYSTEMS • AUTOMATING WORKFLOWS • SHIPPING IMPROVEMENTS</code>
+</sub>
 
 </div>
 
