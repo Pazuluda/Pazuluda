@@ -42,7 +42,7 @@
 
 ---
 
-## 😂 Le coin memes *(oui, un peu trop, assumé)*
+## 😂 Le coin memes
 
 <div align="center">
 
